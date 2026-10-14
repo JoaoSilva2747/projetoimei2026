@@ -1,0 +1,160 @@
+.cabecalho {
+    text-align: center;
+    background-color: #087F6B;
+    padding: 20px;
+}
+
+.cabecalho h1 {
+    color: white;
+}
+
+nav {
+    text-align: center;
+    background-color: #087F6B;
+    padding: 15px;
+}
+
+.link-menu {
+    margin: 10px;
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+}
+
+.link-menu:hover {
+    text-decoration: underline;
+}
+
+.texto-introducao {
+    text-align: center;
+    color: #075344;
+    padding: 30px;
+}
+
+h1 {
+    color: #075344;
+}
+
+a {
+    color: #075344;
+}
+
+.imagem-principal {
+    width: 900px;
+    max-width: 90%;
+    display: block;
+    margin: 30px auto;
+    border-radius: 10px;
+    padding: 20px;
+    align-items: center;
+}
+
+h2 {
+    text-align: center;
+    color: #075344;
+}
+
+.cartao-aprender {
+    display: inline-block;
+    width: 25%;
+    margin: 10px;
+    padding: 20px;
+    text-align: center;
+    background-color: #f1f1f1;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px gray;
+}
+
+.cartao-criar {
+    display: inline-block;
+    width: 25%;
+    margin: 10px;
+    padding: 20px;
+    text-align: center;
+    background-color: #f1f1f1;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px gray;
+}
+
+.cartao-ajudar {
+    display: inline-block;
+    width: 25%;
+    margin: 10px;
+    padding: 20px;
+    text-align: center;
+    background-color: #f1f1f1;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px gray;
+}
+
+.desafio-semanal {
+    text-align: center;
+    margin-top: 40px;
+    padding: 20px;
+}
+
+.rodape {
+    text-align: center;
+    margin-top: 40px;
+    padding: 20px;
+    background-color: #087F6B;
+}
+
+.rodape p {
+    color: white !important;
+}
+
+h2{
+  
+text-align: center;
+    color: #075344;
+    padding: 30px;
+}
+
+.paragrafo{
+     text-align: center;
+    color: #075344;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
+
+.subtitulo{
+text-align: center;
+  color: #075344;
+    padding: 30px;
+}
+
+.atividade {
+    display: flex;
+    align-items: flex-start;
+    gap: 12px;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #d5e2dc;
+}
+
+.atividade img {
+    width: 325px;
+    height: auto;
+    border-radius: 5px;
+    margin: 0;
+    padding: 0;
+    flex-shrink: 0;
+}
+
+.atividade h3 {
+    margin-top: 5px;
+}
+
+.titulo{
+    text-align: center;
+    color: #075344;
+    padding: 30px;
+}
+p{
+  text-align: center;
+    color: #075344;
+}
